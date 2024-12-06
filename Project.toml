@@ -1,0 +1,8 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ProfileCanvas = "efd6af41-a80b-495e-886c-e51b0c7d77a3"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+PythonPlot = "274fc56d-3b97-40fa-a1cd-1b4a50311bf9"
