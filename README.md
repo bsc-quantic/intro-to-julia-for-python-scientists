@@ -53,3 +53,26 @@ You can code in other text editors / IDEs but the VSCode is the one with the bes
 #### Install the Julia extension for VSCode
 
 Go to [https://marketplace.visualstudio.com/items?itemName=julialang.language-julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) and click install, or search for the same extension in the "Extensions" panel.
+
+## Where to go from here
+
+### Community
+
+- [Official website](https://julialang.org)
+- [Slack](https://julialang.org/slack/)
+- [Discourse](https://discourse.julialang.org/)
+- [YouTube](https://www.youtube.com/user/JuliaLanguage)
+
+### Courses
+
+- [Official Manual's "Getting Started" section](https://docs.julialang.org/en/v1/manual/getting-started/)
+- [MIT's Introduction to Computational Thinking (Fall 2024)](https://computationalthinking.mit.edu/Fall24/) 
+  - Very recommended!
+  - Has Image Processing, Data Science and Climate Science tracks
+- [Julia Academy](https://juliaacademy.com/courses)
+- [Exercism](https://exercism.org/tracks/julia)
+- [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
+
+### Other resources
+
+- [Resources from JuliaParallel](https://juliaparallel.org/resources/)
