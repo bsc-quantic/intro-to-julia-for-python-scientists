@@ -2,10 +2,8 @@
 
 This is the material used in the workshop "Introduction to Julia for Python Scientists" at Barcelona Supercomputing Center (BSC-CNS) on the 10th of December of 2024.
 
-The material found here is a shameless mix of the following courses:
-
-- [carstenbauer/JuliaUCL24](https://github.com/carstenbauer/JuliaUCL24)
-- [carstenbauer/JuliaWorkshop19](https://github.com/carstenbauer/JuliaWorkshop19)
+The material found here is based on @carstenbauer's [workshop at UCL on 2024](https://github.com/carstenbauer/JuliaUCL24).
+All credits belong to him for preparing such excelent notes.
 
 ## Setup
 
