@@ -57,6 +57,14 @@ You can code in other text editors / IDEs but the VSCode is the one with the bes
 
 Go to [https://marketplace.visualstudio.com/items?itemName=julialang.language-julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) and click install, or search for the same extension in the "Extensions" panel.
 
+### Instantiate project
+
+Finally, download the dependencies by running the following command in the terminal (previously having `cd`ed into this folder).
+
+```bash
+julia --project=. setup.jl
+```
+
 ## Where to go from here
 
 ### Community
